@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iKeep</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please enter your name.</string>
+    <string name="name">Name</string>
+    <string name="finish">FINISH</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="image">image</string>
+    <string name="result">Result</string>
+</resources>
